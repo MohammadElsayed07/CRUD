@@ -1,0 +1,65 @@
+nav {
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+
+nav a:hover {
+    font-weight: 500;
+}
+
+.login {
+    background-color:rgba(229, 237, 237, 0.354);
+    padding: 25px;
+    border: solid 1px;
+    border-radius: 2%;
+    position: absolute;
+    right: 15px;
+    top: 25px;
+}
+
+.login p {
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.search {
+    width: 400px;
+    position:absolute;    
+    top: 50px;
+}
+
+.table h1 {
+    font-family: serif;
+    padding-bottom: 10px;
+}
+
+.column-width {
+    width: 320px;
+}
+
+.column-show {
+    width: 220px;
+}
+
+.column-1 {
+    width: 15px;
+}
+
+.column-show1 {
+    width: 190px;
+}
+
+tr input {
+    width: 280px;
+}
+
+.inputstatus {
+    width: 150px;
+}
+
+.button-container button {
+    margin-right: 8px;
+  }
+  
